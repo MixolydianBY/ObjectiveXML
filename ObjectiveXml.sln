@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28218.60
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectiveXML", "XMLTool\ObjectiveXML.csproj", "{6EDB4D40-BED2-45A7-9356-91784AF9E8B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectiveXML.Tests", "XMLTools.Tests\ObjectiveXML.Tests.csproj", "{D468667F-9EC3-4B29-997E-2B64825B2AA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{9BEBA2AE-5079-44BA-AEDC-CA43F47F2364}"
+	ProjectSection(SolutionItems) = preProject
+		Libs\MEFLight.dll = Libs\MEFLight.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EDB4D40-BED2-45A7-9356-91784AF9E8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDB4D40-BED2-45A7-9356-91784AF9E8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDB4D40-BED2-45A7-9356-91784AF9E8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDB4D40-BED2-45A7-9356-91784AF9E8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D468667F-9EC3-4B29-997E-2B64825B2AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D468667F-9EC3-4B29-997E-2B64825B2AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D468667F-9EC3-4B29-997E-2B64825B2AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D468667F-9EC3-4B29-997E-2B64825B2AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F6AB772-6B5D-4A2A-ADC1-7DA3493D220A}
+	EndGlobalSection
+EndGlobal

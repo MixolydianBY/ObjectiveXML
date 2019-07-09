@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+  <Book number = '1'>
+    <Name>First</Name>
+    <Authors>
+      <Author>
+        <FirstName>Julio</FirstName>
+        <SecondName>Cortasar</SecondName>
+      </Author>
+    </Authors>
+    <Publisher>
+      <Name>DopePublisher</Name>
+      <Place>Madrid</Place>
+      <Year>1978</Year>
+    </Publisher>
+    <Pages>150</Pages>
+    <ISBN>1526354848482424</ISBN>
+    <Annotation>YO!</Annotation>
+  </Book>
+  <Book number = '2'>
+    <Name>Second</Name>
+    <Authors>
+      <Author>
+        <FirstName>Julio</FirstName>
+        <SecondName>Cortasar</SecondName>
+      </Author>
+    </Authors>
+    <Publisher>
+      <Name>DopePublisher</Name>
+      <Place>Madrid</Place>
+      <Year>1978</Year>
+    </Publisher>
+    <Pages>150</Pages>
+    <ISBN>1526354848482424</ISBN>
+    <Annotation>YO!</Annotation>
+  </Book>
+</Books>

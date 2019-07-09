@@ -1,0 +1,6 @@
+.vs/
+XMLTool/bin/Debug/netstandard2.0/XMLTool.deps.json
+XMLTool/obj/
+XMLTools.Tests/bin/
+XMLTools.Tests/obj/
+XMLTool/bin/
