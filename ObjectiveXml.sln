@@ -7,11 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectiveXML", "XMLTool\Obj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectiveXML.Tests", "XMLTools.Tests\ObjectiveXML.Tests.csproj", "{D468667F-9EC3-4B29-997E-2B64825B2AA6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{9BEBA2AE-5079-44BA-AEDC-CA43F47F2364}"
-	ProjectSection(SolutionItems) = preProject
-		Libs\MEFLight.dll = Libs\MEFLight.dll
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
